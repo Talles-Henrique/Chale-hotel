@@ -176,6 +176,8 @@ p{
 #beneficios li a p{
     color: #000;
     font-size: 0.8em;
+    min-width: 540px;
+    max-width: 1180px;
 }
 
 #beneficios li a h3{
